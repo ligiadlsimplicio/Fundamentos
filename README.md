@@ -1,2 +1,2 @@
 # Fundamentos
-Treinamento pensamento compuacional
+Treinamento pensamento computacional
