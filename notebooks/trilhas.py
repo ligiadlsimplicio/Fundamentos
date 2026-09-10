@@ -37,9 +37,3 @@ print("Series Extraída do DataFrame:\n", nomes_df)
 # Definindo índices personalizados
 idades_series = pd.Series([55, 43, 31, 25], index=nomes)
 print("Series de Idades com Índices Personalizados:\n", idades_series)
-
-# Carregando um arquivo estruturado do tipo Parquet (muito comum em análise de dados)
-df = pd.read_parquet("caminho/do/seu/arquivo.parquet")
-
-# Visualizando as 5 primeiras linhas da tabela para analisarmos os dados brutos
-df.head()
