@@ -1,0 +1,8 @@
+{
+    "nome_completo": "Ana Silva",
+    "id_lattes": "1234567890123456",
+    "artigos_publicados": [
+        {"titulo": "Artigo A", "ano": "2023"},
+        {"titulo": "Artigo B", "ano": "2024"}
+    ]
+}
